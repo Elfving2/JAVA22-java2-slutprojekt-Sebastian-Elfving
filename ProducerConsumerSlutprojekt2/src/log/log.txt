@@ -1,0 +1,951 @@
+Production is to Low!
+Created producer : Thread-11 production interval: 1000 Amount of workers: 1
+Created producer : Thread-12 production interval: 10000 Amount of workers: 2
+Created producer : Thread-13 production interval: 10000 Amount of workers: 3
+Production is to Low!
+Created producer : Thread-14 production interval: 7000 Amount of workers: 4
+Created producer : Thread-15 production interval: 1000 Amount of workers: 5
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 2.0
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 0.0
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Created producer : Thread-6 production interval: 2000 Amount of workers: 1
+Created producer : Thread-7 production interval: 8000 Amount of workers: 2
+Created producer : Thread-8 production interval: 10000 Amount of workers: 3
+Created producer : Thread-9 production interval: 4000 Amount of workers: 4
+Created producer : Thread-10 production interval: 1000 Amount of workers: 5
+Created producer : Thread-11 production interval: 1000 Amount of workers: 6
+Production is to Low!
+Created producer : Thread-12 production interval: 5000 Amount of workers: 7
+Created producer : Thread-13 production interval: 1000 Amount of workers: 8
+Created producer : Thread-14 production interval: 1000 Amount of workers: 9
+Created producer : Thread-15 production interval: 2000 Amount of workers: 10
+Created producer : Thread-16 production interval: 3000 Amount of workers: 11
+Created producer : Thread-17 production interval: 2000 Amount of workers: 12
+average amount of units 0.1
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 6.4
+Production is to high!
+average amount of units 6.3
+Production is to high!
+Production is to high!
+Production is to high!
+producer removed  : 2000  Amount of workers: 11
+Production is to high!
+producer removed  : 8000  Amount of workers: 10
+producer removed  : 10000  Amount of workers: 9
+producer removed  : 4000  Amount of workers: 8
+Production is to high!
+producer removed  : 1000  Amount of workers: 7
+producer removed  : 1000  Amount of workers: 6
+Production is to high!
+producer removed  : 5000  Amount of workers: 5
+producer removed  : 1000  Amount of workers: 4
+Production is to high!
+producer removed  : 1000  Amount of workers: 3
+producer removed  : 2000  Amount of workers: 2
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 4.7
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 0.9
+Production is to high!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Created producer : Thread-5 production interval: 5000 Amount of workers: 1
+Created producer : Thread-6 production interval: 10000 Amount of workers: 2
+Created producer : Thread-7 production interval: 5000 Amount of workers: 3
+Production is to Low!
+Created producer : Thread-8 production interval: 1000 Amount of workers: 4
+Created producer : Thread-9 production interval: 7000 Amount of workers: 5
+Created producer : Thread-10 production interval: 7000 Amount of workers: 6
+Created producer : Thread-11 production interval: 5000 Amount of workers: 7
+Created producer : Thread-12 production interval: 7000 Amount of workers: 8
+Created producer : Thread-13 production interval: 3000 Amount of workers: 9
+Production is to Low!
+Production is to Low!
+average amount of units 0.2
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 2.4
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 717.1
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 887.6
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 595.1
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 72.2
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 70.8
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 71.7
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 70.2
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 72.6
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 70.2
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 0.0
+Production is to Low!
+Created producer : Thread-11 production interval: 6000 Amount of workers: 1
+Created producer : Thread-12 production interval: 1000 Amount of workers: 2
+Created producer : Thread-13 production interval: 5000 Amount of workers: 3
+Created producer : Thread-14 production interval: 7000 Amount of workers: 4
+Created producer : Thread-15 production interval: 7000 Amount of workers: 5
+Production is to Low!
+Created producer : Thread-16 production interval: 6000 Amount of workers: 6
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Created producer : Thread-17 production interval: 7000 Amount of workers: 7
+Production is to Low!
+average amount of units 1.4
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 1.9
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 4.9
+average amount of units 10.3
+average amount of units 13.1
+average amount of units 13.4
+Production is to high!
+Production is to high!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 0.6
+average amount of units 2.3
+average amount of units 4.6
+average amount of units 5.5
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 5.8
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 0.4
+average amount of units 2.1
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 1.7
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Created producer : Thread-7 production interval: 5000 Amount of workers: 1
+Production is to Low!
+Created producer : Thread-8 production interval: 9000 Amount of workers: 2
+Created producer : Thread-9 production interval: 7000 Amount of workers: 3
+Created producer : Thread-10 production interval: 8000 Amount of workers: 4
+Created producer : Thread-11 production interval: 9000 Amount of workers: 5
+Created producer : Thread-12 production interval: 1000 Amount of workers: 6
+Created producer : Thread-13 production interval: 3000 Amount of workers: 7
+Production is to Low!
+Created producer : Thread-14 production interval: 2000 Amount of workers: 8
+Created producer : Thread-15 production interval: 1000 Amount of workers: 9
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 2.3
+average amount of units 4.7
+average amount of units 7.8
+average amount of units 11.4
+Production is to high!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Created producer : Thread-9 production interval: 2000 Amount of workers: 1
+Production is to Low!
+Created producer : Thread-10 production interval: 3000 Amount of workers: 2
+Created producer : Thread-11 production interval: 9000 Amount of workers: 3
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 0.3
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 0.9
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 0.9
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 1.0
+Production is to Low!
+Production is to Low!
+Created producer : Thread-12 production interval: 9000 Amount of workers: 4
+Production is to Low!
+Created producer : Thread-13 production interval: 7000 Amount of workers: 5
+Production is to Low!
+Created producer : Thread-14 production interval: 7000 Amount of workers: 6
+Created producer : Thread-15 production interval: 10000 Amount of workers: 7
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 1.0
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Created producer : Thread-16 production interval: 1000 Amount of workers: 8
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 2.1
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 2.5
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 2.5
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 2.2
+Created producer : Thread-17 production interval: 8000 Amount of workers: 9
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Created producer : Thread-18 production interval: 3000 Amount of workers: 10
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 2.8
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 2.7
+Production is to Low!
+Production is to Low!
+Production is to Low!
+Production is to Low!
+average amount of units 2.7
+average amount of units 3.0
+average amount of units 2.8
+average amount of units 3.0
+average amount of units 3.0
+average amount of units 2.9
+average amount of units 2.8
+average amount of units 3.0
+average amount of units 2.8
+average amount of units 2.7
+average amount of units 3.2
+average amount of units 2.6
+average amount of units 3.0
+average amount of units 2.8
+average amount of units 2.9
+average amount of units 2.8
+average amount of units 2.9
+average amount of units 2.9
+average amount of units 2.8
+Production is to high!
+Production is to high!
+average amount of units 3.1
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.7
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 3.2
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.7
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.8
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 3.0
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.7
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.8
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 3.0
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.8
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.7
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.8
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 3.1
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.8
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 3.0
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.8
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.8
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.8
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 3.1
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.8
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.5
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 3.2
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.6
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 3.0
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.7
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 3.1
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.7
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+Production is to high!
+average amount of units 2.9
+Production is to high!
